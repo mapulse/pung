@@ -19,3 +19,6 @@ sox --ignore-length file2.wav file3.wav # IMPORTANT! do not skip this step if yo
 
 be sure not to touch the first, say, 10 rows of the png - that's where the wav header is and touching it will mess things
 up.
+
+
+also any audio you create will prob be very loud and annoying - use at your own risk.
