@@ -22,3 +22,5 @@ up.
 
 
 also any audio you create will prob be very loud and annoying - use at your own risk.
+
+and don't use files too long; it will fail.
