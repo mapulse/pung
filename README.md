@@ -10,7 +10,7 @@ install `sox` and `perl`, as well as the perl modules `Image::Imlib2` and `Image
 ## usage
 
 ```
-./png.pl file.wav > file.png
+./png.pl file.wav
 # edit the png here - gimp, imagemagick, whatever
 ./depng.pl file.png > file2.wav
 sox --ignore-length file2.wav file3.wav # IMPORTANT! do not skip this step if you're using audio files, otherwise
